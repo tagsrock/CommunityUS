@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Manifesto or Antithesis?
 
-You can use the [editor on GitHub](https://github.com/communityus/communityus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Good artists copy, great artists steal.** (Yates et al. 1967)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Playing around with the idea of an open company and exploring what that means. Our world is already so bound and licensed - everyone wants their piece of the pie.  Our goal is to let everyone eat their pie. We provide the tin the pie is cooked in and endeavor to comply with all applicable standards. We don't provide the table you eat the pie on, we encourage you to use a cloth napkin. Where is the spoon and the fork in this allegory? Remember there is no spoon. Forks are welcome and encouraged._
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```tongue-in-cheek``` **Good code is forked, great code is stolen.**
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -14,6 +16,12 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+[editor on GitHub](https://github.com/communityus/communityus.github.io/edit/master/index.md)
+[Jekyll](https://jekyllrb.com/)
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[documentation](https://help.github.com/categories/github-pages-basics/)
+[contact support](https://github.com/contact) and we’ll help you sort it out.
+[repository settings](https://github.com/communityus/communityus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 - Bulleted
 - List
@@ -25,13 +33,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/communityus/communityus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
